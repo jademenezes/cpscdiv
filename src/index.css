@@ -1,3 +1,12 @@
+.title1 {
+  font-family: 'Public Sans', Tahoma, sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
 .footer-img {
   width: 6rem;
   height: 6rem;
